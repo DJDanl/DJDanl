@@ -1,7 +1,7 @@
 # Hello! 
 
 I'm Dan (not my original name lol) and i like using Github in some things.
-> My name is Daniel
+> My name is Daniel, I have 15 Years ;P
 
 I like progamming, but i don't know so much langs.
   - I know a little of Javascript
@@ -12,20 +12,6 @@ I like progamming, but i don't know so much langs.
  I'm currently working in a Discord Bot called Catto (Yep very bad name) he's in Python.
  
  Yes, you can use any pronoun, Non-Binary gender wow
-  
+ 
+ Very bad readme.md bye  
 
-
-<!--
-**DJDanl/DJDanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
