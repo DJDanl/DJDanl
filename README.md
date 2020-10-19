@@ -1,9 +1,19 @@
-Hello, My name is Daniel
-And i don't use Github so much :D
+# Hello! 
 
-I like Python, I'm currently working in a Discord Bot using Discord.py.
-I want to learn Java, i like it, Kotlin too. 
-Bye :3
+I'm Dan (not my original name lol) and i like using Github in some things.
+> My name is Daniel
+
+I like progamming, but i don't know so much langs.
+  - I know a little of Javascript
+  - A little of Kotlin too (Yes, a little, very little.)
+  - I know Python (I'm not fluent lul)
+  - And i'm learning java :D
+  
+ I'm currently working in a Discord Bot called Catto (Yep very bad name) he's in Python.
+ 
+ Yes, you can use any pronoun, Non-Binary gender wow
+  
+
 
 <!--
 **DJDanl/DJDanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
