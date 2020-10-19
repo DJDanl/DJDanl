@@ -1,4 +1,9 @@
-### Hi there 👋
+Hello, My name is Daniel
+And i don't use Github so much :D
+
+I like Python, I'm currently working in a Discord Bot using Discord.py.
+I want to learn Java, i like it, Kotlin too. 
+Bye :3
 
 <!--
 **DJDanl/DJDanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
